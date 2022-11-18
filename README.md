@@ -1,0 +1,1 @@
+# mindlogger-applet-library
