@@ -1,0 +1,7 @@
+{
+  "dashboard": "/admin",
+  "builder": "/builder",
+  "applet": "/:id",
+  "basket": "/basket",
+  "appletsList": "/"
+}
